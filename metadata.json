@@ -1,0 +1,6 @@
+{
+  "name": "AkuatikPro - Manajemen Les Renang",
+  "description": "Aplikasi manajemen les renang untuk pengelolaan jadwal latihan murid, pencatatan pembayaran & kuota paket, serta absensi dengan kirim notifikasi otomatis WhatsApp ke wali murid.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
